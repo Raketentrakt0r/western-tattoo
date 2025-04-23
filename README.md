@@ -20,4 +20,4 @@ See the full license in the [`LICENSE.txt`](./LICENSE.txt) file.
 
 ---
 
-© 2025 [Your Name or Company]. All rights reserved.
+© 2025 [Luis Ricardo Moncada Garcia]. All rights reserved.
